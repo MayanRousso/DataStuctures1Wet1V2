@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <algorithm>
 
-template<class Data>
+template<class Data, >
 class AVL {
 public:
     Data data;
